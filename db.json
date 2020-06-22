@@ -1,0 +1,23 @@
+[
+{
+"id_registrasi": "00001",
+"nama": "Joko",
+"tanggal_lahir": "19-09-1999",
+"no_hp": "0857",
+"status_registrasi": "terdaftar"
+},
+{
+"id_registrasi": "00002",
+"nama": "Anwar",
+"tanggal_lahir": "13-04-1999",
+"no_hp": "0858",
+"status_registrasi": "terdaftar"
+},
+{
+"id_registrasi": "00003",
+"nama": "Celine",
+"tanggal_lahir": "09-10-2000",
+"no_hp": "0812",
+"status_registrasi": "terdaftar"
+}
+]
